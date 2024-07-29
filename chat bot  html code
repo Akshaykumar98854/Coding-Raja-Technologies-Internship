@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Varmi Food Stall</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Varmi Food Stall</h1>
+        <nav>
+            <ul>
+                <li><a href="#idly">Idly</a></li>
+                <li><a href="#dosa">Dosa</a></li>
+                <li><a href="#puri">Puri</a></li>
+                <li><a href="#bajji">Bajji</a></li>
+                <li><a href="#paratha">Paratha</a></li>
+                <li><a href="#chapathi">Chapathi</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="idly">
+            <h2>Idly</h2>
+            <p>Steamed rice cakes served with chutney and sambar.</p>
+            <img src="images/idly.jpg" alt="Idly">
+        </section>
+        <section id="dosa">
+            <h2>Dosa</h2>
+            <p>Crispy rice and lentil crepes served with chutney and sambar.</p>
+            <img src="images/dosa.jpg" alt="Dosa">
+        </section>
+        <section id="puri">
+            <h2>Puri</h2>
+            <p>Deep-fried bread served with potato curry.</p>
+            <img src="images/puri.jpg" alt="Puri">
+        </section>
+        <section id="bajji">
+            <h2>Bajji</h2>
+            <p>Vegetable fritters served with chutney.</p>
+            <img src="images/bajji.jpg" alt="Bajji">
+        </section>
+        <section id="paratha">
+            <h2>Paratha</h2>
+            <p>Layered flatbread served with pickle and yogurt.</p>
+            <img src="images/paratha.jpg" alt="Paratha">
+        </section>
+        <section id="chapathi">
+            <h2>Chapathi</h2>
+            <p>Whole wheat flatbread served with curry.</p>
+            <img src="images/chapathi.jpg" alt="Chapathi">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Varmi Food Stall. All rights reserved.</p>
+    </footer>
+</body>
+</html>
